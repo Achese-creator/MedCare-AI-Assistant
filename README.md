@@ -45,7 +45,7 @@ The application is designed with a modular architecture and demonstrates practic
 
 ## Home Page
 
-![Home Page](assets/screenshots/home.png)
+![Home Page](assets/screenshots/Home.png)
 
 ---
 
@@ -57,7 +57,7 @@ The application is designed with a modular architecture and demonstrates practic
 
 ## Source Attribution
 
-![Sources](assets/screenshots/sources-panel.png)
+![Sources](assets/screenshots/source-panel.png)
 
 ---
 
