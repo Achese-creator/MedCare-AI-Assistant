@@ -1,0 +1,353 @@
+# Folder 2: Departments & Services
+
+**File name:** `departments_and_services.txt`
+
+```
+MEDCARE SPECIALIST HOSPITAL — DEPARTMENTS & SERVICES
+=====================================================
+
+MedCare Specialist Hospital operates twelve (12) specialized departments,
+each staffed with qualified professionals and equipped with modern facilities.
+Below is a comprehensive guide to each department and the services offered.
+
+
+=========================================================
+DEPARTMENT 1: GENERAL MEDICINE
+=========================================================
+Location:     Main Building, Ground Floor
+Head:         Department of Internal Medicine
+Hours:        Monday–Friday: 8:00 AM – 8:00 PM
+              Saturday: 9:00 AM – 5:00 PM
+
+The Department of General Medicine serves as the primary point of contact
+for patients seeking medical attention. Our internists manage a wide range
+of common illnesses, chronic conditions, and preventive care.
+
+Services Provided:
+- General consultations (walk-in and scheduled)
+- Chronic disease management (diabetes, hypertension, asthma, etc.)
+- Fever and infection treatment
+- Gastrointestinal disorders
+- Respiratory conditions
+- Thyroid disorders
+- Preventive health counseling
+- Referrals to specialist departments
+- Executive and routine medical checkups
+- Corporate health packages
+
+
+=========================================================
+DEPARTMENT 2: CARDIOLOGY
+=========================================================
+Location:     Main Building, First Floor
+Head:         Consultant Cardiologist
+Hours:        Monday–Friday: 8:00 AM – 5:00 PM
+              Saturday: 9:00 AM – 1:00 PM (by appointment)
+
+The Cardiology Department specializes in the diagnosis, treatment, and
+prevention of diseases affecting the heart and blood vessels.
+
+Services Provided:
+- Specialist cardiology consultations
+- Electrocardiogram (ECG)
+- Echocardiography (cardiac ultrasound)
+- Cardiac biomarker testing
+- Blood pressure monitoring and management
+- Heart failure management
+- Arrhythmia evaluation
+- Pre-operative cardiac assessment
+- Stress testing (by referral)
+- Post-cardiac event rehabilitation
+- Referral for advanced cardiac procedures (e.g., angiography, stenting)
+
+
+=========================================================
+DEPARTMENT 3: PEDIATRICS
+=========================================================
+Location:     Main Building, Ground Floor
+Head:         Consultant Pediatrician
+Hours:        Monday–Friday: 8:00 AM – 8:00 PM
+              Saturday: 9:00 AM – 5:00 PM
+
+The Pediatrics Department provides comprehensive healthcare for infants,
+children, and adolescents from birth up to 18 years of age.
+
+Services Provided:
+- Pediatric consultations
+- Growth and development monitoring
+- Childhood immunization and vaccination schedules
+- Treatment of common childhood illnesses (malaria, respiratory infections,
+  diarrhea, etc.)
+- Nutritional guidance for children
+- Allergy management
+- Asthma management in children
+- Neonatal care follow-up
+- School health screening
+- Referrals for pediatric surgery or specialty care
+
+
+=========================================================
+DEPARTMENT 4: OBSTETRICS & GYNECOLOGY (OB/GYN)
+=========================================================
+Location:     Main Building, First Floor
+Head:         Consultant Obstetrician / Gynecologist
+Hours:        Monday–Friday: 8:00 AM – 5:00 PM
+              Saturday: 9:00 AM – 1:00 PM (by appointment)
+
+The Obstetrics & Gynecology Department provides comprehensive care for
+women's health, including pregnancy, childbirth, and reproductive health.
+
+Services Provided:
+- Antenatal care (ANC) consultations
+- Postnatal care
+- Normal delivery services
+- Caesarean section (C-section)
+- Family planning counseling and services
+- Fertility assessment (basic)
+- Pap smear / cervical screening
+- Breast examination and screening
+- Management of menstrual disorders
+- Treatment of gynecological infections
+- Menopause management
+- Ultrasound scans during pregnancy
+- High-risk pregnancy management
+- Referral for advanced obstetric procedures
+
+
+=========================================================
+DEPARTMENT 5: ORTHOPEDICS
+=========================================================
+Location:     Main Building, Ground Floor
+Head:         Consultant Orthopedic Surgeon
+Hours:        Monday–Friday: 8:00 AM – 5:00 PM
+              Saturday: 9:00 AM – 1:00 PM (by appointment)
+
+The Orthopedics Department specializes in the diagnosis and treatment of
+musculoskeletal conditions including bones, joints, muscles, ligaments,
+and tendons.
+
+Services Provided:
+- Orthopedic consultations
+- Fracture management (casting, splinting, surgical fixation)
+- Joint pain and arthritis management
+- Back and spine care
+- Sports injury treatment
+- Dislocation reduction
+- Orthopedic surgery (minor and major)
+- Pre- and post-surgical orthopedic care
+- Referral for physiotherapy
+- Referral for advanced orthopedic procedures (e.g., joint replacement)
+
+
+=========================================================
+DEPARTMENT 6: SURGERY
+=========================================================
+Location:     Main Building, First Floor (Theatre Suite)
+Head:         Consultant General Surgeon
+Hours:        Scheduled surgeries: Monday–Friday
+              Emergency surgery: 24/7
+
+The Surgery Department provides a full range of surgical services, from
+minor outpatient procedures to major inpatient operations. Our surgical
+team works in state-of-the-art operating theatres equipped with modern
+anesthesia and monitoring equipment.
+
+Services Provided:
+- General surgical consultations
+- Minor surgery (e.g., wound suturing, abscess drainage, cyst removal,
+  biopsy)
+- Major surgery (e.g., appendectomy, hernia repair, laparotomy)
+- Caesarean section (in collaboration with OB/GYN)
+- Emergency surgical intervention (trauma, appendicitis, bowel obstruction,
+  etc.)
+- Pre-operative assessment and planning
+- Post-operative care and follow-up
+- Referral for specialized surgical sub-specialties (neuro, cardiothoracic,
+  urological) when required
+
+
+=========================================================
+DEPARTMENT 7: LABORATORY
+=========================================================
+Location:     Main Building, Ground Floor
+Head:         Chief Medical Laboratory Scientist
+Hours:        Daily: 7:00 AM – 9:00 PM
+
+The Laboratory Department is a fully equipped diagnostic facility that
+supports all hospital departments with accurate and timely test results.
+
+Services Provided:
+- Full Blood Count (FBC)
+- Lipid Profile
+- Blood Sugar (Fasting & Random)
+- Malaria Test (RDT and Microscopy)
+- Urinalysis
+- Liver Function Test (LFT)
+- Kidney Function Test (KFT)
+- ECG (Electrocardiogram)
+- Cardiac Biomarkers (Troponin, CK-MB)
+- Hepatitis B and C screening
+- HIV screening
+- Pregnancy test (urine and blood)
+- Stool microscopy
+- Electrolytes, Urea, and Creatinine (E/U/Cr)
+- HbA1c (Glycated Hemoglobin)
+- Culture and Sensitivity testing
+- Blood grouping and cross-matching
+- Prothrombin Time (PT/INR)
+- Thyroid function tests (TSH, T3, T4)
+- Corporate and pre-employment medical screening
+- Specimen collection for advanced/external testing
+
+
+=========================================================
+DEPARTMENT 8: PHARMACY
+=========================================================
+Location:     Main Building, Ground Floor (near main entrance)
+Head:         Chief Pharmacist
+Hours:        Daily: 8:00 AM – 10:00 PM
+
+The Pharmacy Department provides prescription dispensing, over-the-counter
+medications, and pharmaceutical counseling to both inpatients and outpatients.
+
+Services Provided:
+- Prescription medication dispensing
+- Over-the-counter (OTC) medicine sales
+- Vaccines and immunization supplies
+- Medication counseling and education
+- Prescription refill service
+- Drug interaction checks
+- Medication safety reviews
+- Chronic disease medication management (e.g., antihypertensives,
+  antidiabetics, antimalarials)
+- Dispensing of antiretroviral medications
+- Availability of essential and emergency medications
+
+
+=========================================================
+DEPARTMENT 9: RADIOLOGY
+=========================================================
+Location:     Main Building, Ground Floor
+Head:         Consultant Radiologist
+Hours:        Daily: 8:00 AM – 8:00 PM
+
+The Radiology Department offers diagnostic imaging services to support
+accurate diagnosis and treatment planning.
+
+Services Provided:
+- X-ray (plain radiography)
+- Ultrasound scanning
+- CT Scan
+- MRI referrals (in partnership with external imaging centers)
+- Echocardiography (in coordination with Cardiology)
+- Mammography (referral)
+- Fluoroscopy (when available)
+- Image interpretation and reporting
+- Emergency imaging services
+- Corporate and pre-employment imaging screening
+
+
+=========================================================
+DEPARTMENT 10: PHYSIOTHERAPY
+=========================================================
+Location:     Main Building, Ground Floor
+Head:         Chief Physiotherapist
+Hours:        Monday–Friday: 8:00 AM – 5:00 PM
+              Saturday: 9:00 AM – 1:00 PM
+
+The Physiotherapy Department provides rehabilitation and physical therapy
+services to help patients recover from injuries, surgeries, and chronic
+musculoskeletal conditions.
+
+Services Provided:
+- Musculoskeletal physiotherapy (back pain, joint pain, neck pain)
+- Post-surgical rehabilitation
+- Sports injury rehabilitation
+- Stroke rehabilitation
+- Neurological physiotherapy
+- Pediatric physiotherapy
+- Geriatric physiotherapy
+- Pain management therapy
+- Exercise prescription and patient education
+- Home exercise program development
+- Referral coordination with Orthopedics, Neurology, and Surgery
+
+
+=========================================================
+DEPARTMENT 11: DENTAL CLINIC
+=========================================================
+Location:     Main Building, Ground Floor
+Head:         Consulting Dental Surgeon
+Hours:        Monday–Friday: 8:00 AM – 5:00 PM
+              Saturday: 9:00 AM – 1:00 PM (by appointment)
+
+The Dental Clinic provides general and preventive dental care for patients
+of all ages.
+
+Services Provided:
+- Dental consultations
+- Dental examination and diagnosis
+- Teeth cleaning and polishing (scaling and prophylaxis)
+- Tooth extraction
+- Dental fillings (restoration)
+- Root canal treatment
+- Dental X-rays
+- Gum disease treatment
+- Pediatric dental care
+- Oral health education
+- Referral for advanced dental procedures (orthodontics, oral surgery)
+
+
+=========================================================
+DEPARTMENT 12: EMERGENCY DEPARTMENT
+=========================================================
+Location:     Emergency Wing (Ground Floor, separate entrance)
+Head:         Emergency Medicine Physician
+Hours:        24 hours, 7 days a week
+
+The Emergency Department is the frontline of MedCare Specialist Hospital,
+providing immediate medical attention for life-threatening and urgent
+conditions around the clock.
+
+Services Provided:
+- Emergency medical assessment and triage
+- Cardiac emergency response
+- Stroke emergency response
+- Trauma care
+- Emergency surgical intervention
+- Ambulance services
+- Emergency resuscitation and stabilization
+- Wound care and suturing
+- Fracture and dislocation emergency management
+- Poisoning and overdose management
+- Obstetric emergencies
+- Pediatric emergencies
+- Transfer and referral coordination
+- Emergency ambulance dispatch: Call 112 or +234 800 MEDCARE
+
+
+=========================================================
+SUPPORT SERVICES
+=========================================================
+In addition to the twelve clinical departments, MedCare Specialist Hospital
+provides the following support services:
+
+- Patient Registration and Records Management
+- Health Insurance and HMO Coordination
+- Corporate Health and Wellness Programs
+- Medical Screening Packages
+- Patient Transport Services
+- Dietary and Nutrition Services
+- Social Work and Patient Advocacy
+- Housekeeping and Environmental Services
+- Security Services
+
+
+=========================================================
+CONTACT FOR DEPARTMENT ENQUIRIES
+================================
+General Enquiries:   support@medcarespecialist.com
+Phone:               +234 800 MEDCARE
+Website:             www.medcarespecialist.com
+
+For emergency services, call 112 or +234 800 MEDCARE.
