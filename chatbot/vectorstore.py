@@ -34,10 +34,15 @@ def create_vectorstore(chunks):
     return vectorstore
 
 
+from pathlib import Path
+
+
 def save_vectorstore(vectorstore):
     """
     Save the FAISS index.
     """
+
+    Path(FAISS_INDEX_PATH).mkdir(parents=True, exist_ok=True)
 
     vectorstore.save_local(FAISS_INDEX_PATH)
 

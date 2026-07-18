@@ -2,10 +2,15 @@ from pathlib import Path
 from langchain_core.documents import Document
 
 
-def load_documents(data_folder="data"):
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_PATH = BASE_DIR / "data"
+
+
+def load_documents(data_folder=DATA_PATH):
     """
     Load all .txt files from the data folder into LangChain Documents.
     """
+
     data_path = Path(data_folder)
 
     documents = []
@@ -16,7 +21,7 @@ def load_documents(data_folder="data"):
         documents.append(
             Document(
                 page_content=text,
-                metadata={"source": file.name}
+                metadata={"source": file.name},
             )
         )
 
