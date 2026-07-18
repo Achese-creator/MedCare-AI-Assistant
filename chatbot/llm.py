@@ -1,5 +1,6 @@
 import os
 
+import streamlit as st
 from dotenv import load_dotenv
 from groq import Groq
 
@@ -14,11 +15,19 @@ class LLMClient:
     """
 
     def __init__(self):
-        api_key = os.getenv("GROQ_API_KEY")
+
+        # Try Streamlit Secrets first
+        api_key = st.secrets.get("GROQ_API_KEY")
+
+        # Fallback to local .env
+        if not api_key:
+            api_key = os.getenv("GROQ_API_KEY")
 
         if not api_key:
-            logger.error("GROQ_API_KEY not found in the .env file.")
-            raise ValueError("GROQ_API_KEY not found in the .env file.")
+            logger.error("GROQ_API_KEY not found.")
+            raise ValueError(
+                "GROQ_API_KEY not found. Add it to Streamlit Secrets or your local .env file."
+            )
 
         try:
             self.client = Groq(api_key=api_key)
