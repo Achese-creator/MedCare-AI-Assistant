@@ -1,8 +1,8 @@
 from pathlib import Path
 
 from chatbot.config import SEARCH_TYPE, TOP_K, FAISS_INDEX_PATH
-from chatbot.document_loader import load_documents
-from chatbot.text_splitter import split_documents
+from chatbot.loader import load_documents
+from chatbot.splitter import split_documents
 from chatbot.vectorstore import (
     create_vectorstore,
     save_vectorstore,
