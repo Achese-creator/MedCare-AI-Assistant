@@ -45,10 +45,12 @@ def render_sidebar():
             st.session_state.questions_asked
         )
 
-        if st.session_state.response_time > 0:
+        response_time = st.session_state.get("response_time", 0.0)
+
+        if response_time > 0:
             st.metric(
                 "Last Response",
-                f"{st.session_state.response_time:.2f}s"
+                f"{response_time:.2f}s"
             )
 
         st.divider()
