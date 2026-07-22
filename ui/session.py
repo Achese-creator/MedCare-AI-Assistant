@@ -25,13 +25,13 @@ def initialize_session():
         st.session_state.feedback = {}
 
     # Last chatbot response
-if "last_result" not in st.session_state:
-    st.session_state.last_result = None
+    if "last_result" not in st.session_state:
+        st.session_state.last_result = None
 
-# Response time
-if "response_time" not in st.session_state:
-    st.session_state.response_time = 0.0
-    
+    # Response time
+    if "response_time" not in st.session_state:
+        st.session_state.response_time = 0.0
+
     # Pending suggested question
-if "pending_prompt" not in st.session_state:
-    st.session_state.pending_prompt = None
+    if "pending_prompt" not in st.session_state:
+        st.session_state.pending_prompt = None
