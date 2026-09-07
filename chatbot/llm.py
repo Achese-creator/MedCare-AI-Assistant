@@ -48,4 +48,11 @@ def get_llm():
     """
     Return a Groq client instance.
     """
-    return LLMClient().get_client()
+    client = LLMClient().get_client()
+
+    models = client.models.list()
+
+    for model in models.data:
+        logger.info(f"Available Groq model: {model.id}")
+
+    return client
