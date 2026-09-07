@@ -6,7 +6,7 @@ EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
 
 FAISS_INDEX_PATH = BASE_DIR / "database" / "faiss_index"
 
-LLM_MODEL = "llama-3.3-70b-versatile"
+LLM_MODEL = "llama-3.1-8b-instant"
 
 TEMPERATURE = 0.2
 MAX_TOKENS = 400

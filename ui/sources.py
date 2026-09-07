@@ -17,7 +17,7 @@ def render_sources():
     if not sources:
         return
 
-    with st.expander("📚 Sources Used"):
+    with st.expander("Sources Used"):
 
         st.caption(
             "This answer was generated from the following hospital knowledge base documents:"
@@ -26,7 +26,7 @@ def render_sources():
         for source in sources:
             filename = os.path.basename(source)
 
-            st.success(f"📄 {filename}")
+            st.success(f"{filename}")
 
         st.info(
             "The assistant answers only from indexed hospital documents and will state when information is unavailable."

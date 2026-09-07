@@ -54,7 +54,7 @@ Instructions:
                 model=LLM_MODEL,
                 messages=messages,
                 temperature=TEMPERATURE,
-                max_tokens=MAX_TOKENS,
+                max_completion_tokens=MAX_TOKENS,
             )
 
             answer = response.choices[0].message.content

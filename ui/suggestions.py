@@ -2,10 +2,10 @@ import streamlit as st
 
 
 SUGGESTED_QUESTIONS = [
-    "🕒 What are your visiting hours?",
-    "📅 How can I book an appointment?",
-    "💳 Do you accept NHIA insurance?",
-    "🏥 What specialist services do you offer?",
+    "What are your visiting hours?",
+    "How can I book an appointment?",
+    "Do you accept NHIA insurance?",
+    "What specialist services do you offer?",
 ]
 
 
@@ -18,7 +18,7 @@ def render_suggestions():
     if st.session_state.messages:
         return
 
-    st.markdown("### 💡 Try asking...")
+    st.markdown("### Try asking...")
 
     cols = st.columns(2)
 

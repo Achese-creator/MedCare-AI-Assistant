@@ -8,7 +8,7 @@ def render_sidebar():
 
     with st.sidebar:
 
-        st.title("🏥 MedCare AI")
+        st.title("MedCare AI")
 
         st.markdown(
             """
@@ -16,17 +16,17 @@ def render_sidebar():
 
             Ask questions about:
 
-            - 🕒 Visiting hours
-            - 📅 Appointments
-            - 💳 Billing & Insurance
-            - 🏥 Hospital Services
-            - 📍 Hospital Policies
+            - Visiting hours
+            - Appointments
+            - Billing & Insurance
+            - Hospital Services
+            - Hospital Policies
             """
         )
 
         st.divider()
 
-        st.subheader("💡 Example Questions")
+        st.subheader("Example Questions")
 
         st.markdown("""
 - What are your visiting hours?
@@ -38,7 +38,7 @@ def render_sidebar():
 
         st.divider()
 
-        st.subheader("📊 Session Statistics")
+        st.subheader("Session Statistics")
 
         st.metric(
             "Questions Asked",
@@ -56,7 +56,7 @@ def render_sidebar():
         st.divider()
 
         if st.button(
-            "🗑️ Clear Conversation",
+            "Clear Conversation",
             use_container_width=True
         ):
             st.session_state.messages = []

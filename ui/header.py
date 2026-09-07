@@ -21,7 +21,7 @@ def render_header():
             margin-bottom:5px;
             color:white;
         ">
-            🏥 MedCare AI Assistant
+            MedCare AI Assistant
         </h1>
 
         <p style="
